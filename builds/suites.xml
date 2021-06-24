@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name='Yatra Web Automation' verbose='10'>
+
+	<suite-files>
+	     <suite-file
+            path=".//src/test/resources/Booking_Section_Test_Scenarios.xml">
+        </suite-file>
+   	</suite-files>
+	
+
+</suite>
+
